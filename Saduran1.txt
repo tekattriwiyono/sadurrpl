@@ -1,6 +1,5 @@
 <html>
-
-<center><b><font size="4">Berisi Saduran Matakuliah Analisis dan Perancangan RPL</font></b></center>
+Berisi Saduran Matakuliah Analisis dan Perancangan RPL
 <body>
 <p><br /></p>
 <left>Nama      : Tekat Tri Wiyono<br/>
